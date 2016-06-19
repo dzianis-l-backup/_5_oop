@@ -1,0 +1,17 @@
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Flyers\bin\Debug\Flyers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Flyers\bin\Debug\Flyers.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Flyers\bin\Debug\Animal.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Flyers\bin\Debug\Animal.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Flyers\obj\Debug\Flyers.csprojResolveAssemblyReference.cache
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Flyers\obj\Debug\Flyers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Flyers\obj\Debug\Flyers.pdb
+G:\_4_oop\dlls\Flyers.dll
+G:\_4_oop\dlls\Flyers.pdb
+G:\_4_oop\Flyers\obj\Debug\Flyers.csprojResolveAssemblyReference.cache
+G:\_4_oop\Flyers\obj\Debug\Flyers.dll
+G:\_4_oop\Flyers\obj\Debug\Flyers.pdb
+C:\Users\Admin\Desktop\_4_oop-master\dlls\Flyers.dll
+C:\Users\Admin\Desktop\_4_oop-master\dlls\Flyers.pdb
+C:\Users\Admin\Desktop\_4_oop-master\Flyers\obj\Debug\Flyers.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\_4_oop-master\Flyers\obj\Debug\Flyers.dll
+C:\Users\Admin\Desktop\_4_oop-master\Flyers\obj\Debug\Flyers.pdb

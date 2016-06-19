@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\_4_oop-master\XML\bin\Debug\XML.exe.config
+C:\Users\Admin\Desktop\_4_oop-master\XML\bin\Debug\XML.exe
+C:\Users\Admin\Desktop\_4_oop-master\XML\bin\Debug\XML.pdb
+C:\Users\Admin\Desktop\_4_oop-master\XML\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\_4_oop-master\XML\obj\Debug\XML.XMLForm.resources
+C:\Users\Admin\Desktop\_4_oop-master\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\Admin\Desktop\_4_oop-master\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\XML\obj\Debug\XML.pdb
+C:\Users\Admin\Desktop\_4_oop-master\dlls\XML.pdb
+C:\Users\Admin\Desktop\_4_oop-master\dlls\XML.dll.config
+C:\Users\Admin\Desktop\_4_oop-master\dlls\XML.dll
+C:\Users\Admin\Desktop\_4_oop-master\XML\obj\Debug\XML.dll
+C:\Users\Admin\Desktop\_4_oop-master\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache

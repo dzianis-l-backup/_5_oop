@@ -1,0 +1,32 @@
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Bird\obj\Debug\Bird.csprojResolveAssemblyReference.cache
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Bird\bin\Debug\Bird.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Bird\bin\Debug\Bird.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Bird\bin\Debug\Animal.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Bird\bin\Debug\Flyers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Bird\bin\Debug\Animal.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Bird\bin\Debug\Flyers.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Bird\obj\Debug\Bird.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Bird\obj\Debug\Bird.pdb
+C:\_4_oop\Bird\bin\Debug\Bird.dll
+C:\_4_oop\Bird\bin\Debug\Bird.pdb
+C:\_4_oop\Bird\bin\Debug\Animal.dll
+C:\_4_oop\Bird\bin\Debug\Flyers.dll
+C:\_4_oop\Bird\bin\Debug\Animal.pdb
+C:\_4_oop\Bird\bin\Debug\Flyers.pdb
+C:\_4_oop\Bird\obj\Debug\Bird.csprojResolveAssemblyReference.cache
+C:\_4_oop\Bird\obj\Debug\Bird.dll
+C:\_4_oop\Bird\obj\Debug\Bird.pdb
+G:\_4_oop\Bird\obj\Debug\Bird.csprojResolveAssemblyReference.cache
+G:\_4_oop\Bird\obj\Debug\Bird.dll
+G:\_4_oop\Bird\obj\Debug\Bird.pdb
+G:\_4_oop\dlls\includes\Bird.dll
+G:\_4_oop\dlls\includes\Bird.pdb
+G:\_4_oop\Bird\obj\Debug\_3_oop.BirdForm.resources
+G:\_4_oop\Bird\obj\Debug\Bird.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Bird.dll
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Bird.pdb
+C:\Users\Admin\Desktop\_4_oop-master\Bird\obj\Debug\Bird.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\_4_oop-master\Bird\obj\Debug\_3_oop.BirdForm.resources
+C:\Users\Admin\Desktop\_4_oop-master\Bird\obj\Debug\Bird.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\Bird\obj\Debug\Bird.dll
+C:\Users\Admin\Desktop\_4_oop-master\Bird\obj\Debug\Bird.pdb

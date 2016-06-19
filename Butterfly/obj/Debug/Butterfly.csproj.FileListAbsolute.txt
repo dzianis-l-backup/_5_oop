@@ -1,0 +1,22 @@
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Butterfly\bin\Debug\Butterfly.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Butterfly\bin\Debug\Butterfly.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Butterfly\bin\Debug\Animal.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Butterfly\bin\Debug\Flyers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Butterfly\bin\Debug\Animal.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Butterfly\bin\Debug\Flyers.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Butterfly\obj\Debug\Butterfly.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Butterfly\obj\Debug\Butterfly.pdb
+G:\_4_oop\dlls\includes\Butterfly.dll
+G:\_4_oop\dlls\includes\Butterfly.pdb
+G:\_4_oop\Butterfly\obj\Debug\Butterfly.dll
+G:\_4_oop\Butterfly\obj\Debug\Butterfly.pdb
+G:\_4_oop\Butterfly\obj\Debug\_3_oop.ButterflyForm.resources
+G:\_4_oop\Butterfly\obj\Debug\Butterfly.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Butterfly.dll
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Butterfly.pdb
+C:\Users\Admin\Desktop\_4_oop-master\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\_4_oop-master\Butterfly\obj\Debug\_3_oop.ButterflyForm.resources
+C:\Users\Admin\Desktop\_4_oop-master\Butterfly\obj\Debug\Butterfly.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\Butterfly\obj\Debug\Butterfly.dll
+C:\Users\Admin\Desktop\_4_oop-master\Butterfly\obj\Debug\Butterfly.pdb

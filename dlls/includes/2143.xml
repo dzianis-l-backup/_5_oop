@@ -1,0 +1,16 @@
+<root>
+  <JsonConv xmlns:json="http://james.newtonking.com/projects/json" json:type="_3_oop.Bird, Bird">
+    <IsBird>true</IsBird>
+    <WingsQuantity>0</WingsQuantity>
+    <CanFly>false</CanFly>
+    <Name>фыауфыв</Name>
+    <Age>0</Age>
+  </JsonConv>
+  <JsonConv json:type="_3_oop.Fox, Fox" xmlns:json="http://james.newtonking.com/projects/json">
+    <WhatDoesTheFoxSay>ЙУС</WhatDoesTheFoxSay>
+    <IsWalker>false</IsWalker>
+    <Areal>фцуа</Areal>
+    <Name>фцуафы</Name>
+    <Age>0</Age>
+  </JsonConv>
+</root>

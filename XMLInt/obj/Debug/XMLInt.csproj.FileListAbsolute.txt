@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\_4_oop-master\XMLInt\bin\Debug\XMLInt.exe.config
+C:\Users\Admin\Desktop\_4_oop-master\XMLInt\bin\Debug\XMLInt.exe
+C:\Users\Admin\Desktop\_4_oop-master\XMLInt\bin\Debug\XMLInt.pdb
+C:\Users\Admin\Desktop\_4_oop-master\XMLInt\obj\Debug\XMLInt.Properties.Resources.resources
+C:\Users\Admin\Desktop\_4_oop-master\XMLInt\obj\Debug\XMLInt.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\XMLInt\obj\Debug\XMLInt.pdb
+C:\Users\Admin\Desktop\_4_oop-master\dlls\XMLInt.pdb
+C:\Users\Admin\Desktop\_4_oop-master\dlls\XMLInt.dll.config
+C:\Users\Admin\Desktop\_4_oop-master\dlls\XMLInt.dll
+C:\Users\Admin\Desktop\_4_oop-master\XMLInt\obj\Debug\XMLInt.dll
+C:\Users\Admin\Desktop\_4_oop-master\XMLInt\obj\Debug\XMLInt.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+H:\_4_oop\Fox\obj\Release\Fox.csprojResolveAssemblyReference.cache
+H:\_4_oop\Fox\obj\Release\_3_oop.FoxForm.resources
+H:\_4_oop\Fox\obj\Release\Fox.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\Fox\obj\Release\Fox.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\_4_oop-master\Fox\obj\Release\_3_oop.FoxForm.resources
+C:\Users\Admin\Desktop\_4_oop-master\Fox\obj\Release\Fox.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Fox.dll
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Fox.pdb
+C:\Users\Admin\Desktop\_4_oop-master\Fox\obj\Release\Fox.dll
+C:\Users\Admin\Desktop\_4_oop-master\Fox\obj\Release\Fox.pdb

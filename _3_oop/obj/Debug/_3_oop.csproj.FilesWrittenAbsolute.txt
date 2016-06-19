@@ -1,0 +1,9 @@
+/media/dzianisl/B47843087842C936/Users/dzi/Documents/Visual Studio 2012/Projects/_4_oop/_3_oop/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/dzianisl/B47843087842C936/Users/dzi/Documents/Visual Studio 2012/Projects/_4_oop/_3_oop/obj/Debug/_3_oop.FlyerName.resources
+/media/dzianisl/B47843087842C936/Users/dzi/Documents/Visual Studio 2012/Projects/_4_oop/_3_oop/obj/Debug/_3_oop.Properties.Resources.resources
+/media/dzianisl/B47843087842C936/Users/dzi/Documents/Visual Studio 2012/Projects/_4_oop/_3_oop/bin/Debug/_3_oop.exe.config
+/media/dzianisl/B47843087842C936/Users/dzi/Documents/Visual Studio 2012/Projects/_4_oop/_3_oop/bin/Debug/_3_oop.exe.mdb
+/media/dzianisl/B47843087842C936/Users/dzi/Documents/Visual Studio 2012/Projects/_4_oop/_3_oop/bin/Debug/_3_oop.exe
+/media/dzianisl/B47843087842C936/Users/dzi/Documents/Visual Studio 2012/Projects/_4_oop/_3_oop/obj/Debug/_3_oop.exe
+/media/dzianisl/B47843087842C936/Users/dzi/Documents/Visual Studio 2012/Projects/_4_oop/_3_oop/obj/Debug/_3_oop.exe.mdb
+/media/dzianisl/B47843087842C936/Users/dzi/Documents/Visual Studio 2012/Projects/_4_oop/_3_oop/bin/Debug/Newtonsoft.Json.dll

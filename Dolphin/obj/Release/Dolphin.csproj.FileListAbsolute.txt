@@ -1,0 +1,10 @@
+H:\_4_oop\Dolphin\obj\Release\Dolphin.csprojResolveAssemblyReference.cache
+H:\_4_oop\Dolphin\obj\Release\_3_oop.DolphinForm.resources
+H:\_4_oop\Dolphin\obj\Release\Dolphin.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\Dolphin\obj\Release\Dolphin.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\_4_oop-master\Dolphin\obj\Release\_3_oop.DolphinForm.resources
+C:\Users\Admin\Desktop\_4_oop-master\Dolphin\obj\Release\Dolphin.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Dolphin.dll
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Dolphin.pdb
+C:\Users\Admin\Desktop\_4_oop-master\Dolphin\obj\Release\Dolphin.dll
+C:\Users\Admin\Desktop\_4_oop-master\Dolphin\obj\Release\Dolphin.pdb

@@ -1,0 +1,9 @@
+<root>
+  <JsonConv xmlns:json="http://james.newtonking.com/projects/json" json:type="_3_oop.Bird, Bird">
+    <IsBird>true</IsBird>
+    <WingsQuantity>0</WingsQuantity>
+    <CanFly>false</CanFly>
+    <Name>цйуа</Name>
+    <Age>0</Age>
+  </JsonConv>
+</root>

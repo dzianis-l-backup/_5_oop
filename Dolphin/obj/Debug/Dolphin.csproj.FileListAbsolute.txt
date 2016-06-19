@@ -1,0 +1,21 @@
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Dolphin\obj\Debug\Dolphin.csprojResolveAssemblyReference.cache
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Dolphin\bin\Debug\Dolphin.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Dolphin\bin\Debug\Dolphin.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Dolphin\bin\Debug\Animal.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Dolphin\bin\Debug\Swimmers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Dolphin\bin\Debug\Animal.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Dolphin\bin\Debug\Swimmers.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Dolphin\obj\Debug\Dolphin.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Dolphin\obj\Debug\Dolphin.pdb
+G:\_4_oop\dlls\includes\Dolphin.dll
+G:\_4_oop\dlls\includes\Dolphin.pdb
+G:\_4_oop\Dolphin\obj\Debug\Dolphin.csprojResolveAssemblyReference.cache
+G:\_4_oop\Dolphin\obj\Debug\Dolphin.dll
+G:\_4_oop\Dolphin\obj\Debug\Dolphin.pdb
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Dolphin.dll
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Dolphin.pdb
+C:\Users\Admin\Desktop\_4_oop-master\Dolphin\obj\Debug\Dolphin.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\_4_oop-master\Dolphin\obj\Debug\_3_oop.DolphinForm.resources
+C:\Users\Admin\Desktop\_4_oop-master\Dolphin\obj\Debug\Dolphin.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\Dolphin\obj\Debug\Dolphin.dll
+C:\Users\Admin\Desktop\_4_oop-master\Dolphin\obj\Debug\Dolphin.pdb

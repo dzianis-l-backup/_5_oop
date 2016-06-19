@@ -1,0 +1,5 @@
+H:\_4_oop\dlls\Walkers.dll
+H:\_4_oop\dlls\Walkers.pdb
+H:\_4_oop\Walkers\obj\Release\Walkers.csprojResolveAssemblyReference.cache
+H:\_4_oop\Walkers\obj\Release\Walkers.dll
+H:\_4_oop\Walkers\obj\Release\Walkers.pdb

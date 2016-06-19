@@ -1,0 +1,14 @@
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Snake\bin\Debug\Snake.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Snake\bin\Debug\Snake.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Snake\bin\Debug\Animal.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Snake\bin\Debug\Walkers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Snake\bin\Debug\Animal.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Snake\bin\Debug\Walkers.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Snake\obj\Debug\Snake.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Snake\obj\Debug\Snake.pdb
+G:\_4_oop\dlls\includes\Snake.dll
+G:\_4_oop\dlls\includes\Snake.pdb
+G:\_4_oop\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+G:\_4_oop\Snake\obj\Debug\Snake.dll
+G:\_4_oop\Snake\obj\Debug\Snake.pdb

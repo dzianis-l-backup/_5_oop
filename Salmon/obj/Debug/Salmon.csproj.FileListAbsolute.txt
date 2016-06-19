@@ -1,0 +1,14 @@
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Salmon\obj\Debug\Salmon.csprojResolveAssemblyReference.cache
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Salmon\bin\Debug\Salmon.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Salmon\bin\Debug\Salmon.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Salmon\bin\Debug\Animal.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Salmon\bin\Debug\Swimmers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Salmon\bin\Debug\Animal.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Salmon\bin\Debug\Swimmers.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Salmon\obj\Debug\Salmon.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Salmon\obj\Debug\Salmon.pdb
+G:\_4_oop\dlls\includes\Salmon.dll
+G:\_4_oop\dlls\includes\Salmon.pdb
+G:\_4_oop\Salmon\obj\Debug\Salmon.csprojResolveAssemblyReference.cache
+G:\_4_oop\Salmon\obj\Debug\Salmon.dll
+G:\_4_oop\Salmon\obj\Debug\Salmon.pdb

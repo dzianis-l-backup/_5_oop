@@ -1,0 +1,14 @@
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Swimmers\bin\Debug\Swimmers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Swimmers\bin\Debug\Swimmers.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Swimmers\bin\Debug\Animal.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Swimmers\bin\Debug\Animal.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Swimmers\obj\Debug\Swimmers.csprojResolveAssemblyReference.cache
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Swimmers\obj\Debug\Swimmers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Swimmers\obj\Debug\Swimmers.pdb
+G:\_4_oop\Swimmers\bin\Debug\Swimmers.dll
+G:\_4_oop\Swimmers\bin\Debug\Swimmers.pdb
+G:\_4_oop\Swimmers\bin\Debug\Animal.dll
+G:\_4_oop\Swimmers\bin\Debug\Animal.pdb
+G:\_4_oop\Swimmers\obj\Debug\Swimmers.csprojResolveAssemblyReference.cache
+G:\_4_oop\Swimmers\obj\Debug\Swimmers.dll
+G:\_4_oop\Swimmers\obj\Debug\Swimmers.pdb

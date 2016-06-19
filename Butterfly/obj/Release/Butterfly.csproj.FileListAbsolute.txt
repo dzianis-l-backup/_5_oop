@@ -1,0 +1,14 @@
+H:\_4_oop\dlls\includes\Butterfly.dll
+H:\_4_oop\dlls\includes\Butterfly.pdb
+H:\_4_oop\Butterfly\obj\Release\Butterfly.csprojResolveAssemblyReference.cache
+H:\_4_oop\Butterfly\obj\Release\_3_oop.ButterflyForm.resources
+H:\_4_oop\Butterfly\obj\Release\Butterfly.csproj.GenerateResource.Cache
+H:\_4_oop\Butterfly\obj\Release\Butterfly.dll
+H:\_4_oop\Butterfly\obj\Release\Butterfly.pdb
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Butterfly.dll
+C:\Users\Admin\Desktop\_4_oop-master\dlls\includes\Butterfly.pdb
+C:\Users\Admin\Desktop\_4_oop-master\Butterfly\obj\Release\Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\_4_oop-master\Butterfly\obj\Release\_3_oop.ButterflyForm.resources
+C:\Users\Admin\Desktop\_4_oop-master\Butterfly\obj\Release\Butterfly.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\_4_oop-master\Butterfly\obj\Release\Butterfly.dll
+C:\Users\Admin\Desktop\_4_oop-master\Butterfly\obj\Release\Butterfly.pdb

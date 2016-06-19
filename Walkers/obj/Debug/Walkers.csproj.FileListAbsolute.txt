@@ -1,0 +1,15 @@
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Walkers\bin\Debug\Walkers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Walkers\bin\Debug\Walkers.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Walkers\bin\Debug\Animal.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Walkers\bin\Debug\Animal.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Walkers\obj\Debug\Walkers.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Walkers\obj\Debug\Walkers.pdb
+G:\_4_oop\Walkers\bin\Debug\Walkers.dll
+G:\_4_oop\Walkers\bin\Debug\Walkers.pdb
+G:\_4_oop\Walkers\bin\Debug\Animal.dll
+G:\_4_oop\Walkers\bin\Debug\Animal.pdb
+G:\_4_oop\Walkers\obj\Debug\Walkers.csprojResolveAssemblyReference.cache
+G:\_4_oop\Walkers\obj\Debug\Walkers.dll
+G:\_4_oop\Walkers\obj\Debug\Walkers.pdb
+G:\_4_oop\dlls\Walkers.dll
+G:\_4_oop\dlls\Walkers.pdb

@@ -1,0 +1,14 @@
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Animal\bin\Debug\Animal.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Animal\bin\Debug\Animal.pdb
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Animal\obj\Debug\Animal.dll
+C:\Users\dzi\Documents\Visual Studio 2012\Projects\_4_oop\Animal\obj\Debug\Animal.pdb
+G:\_4_oop\Animal\bin\Debug\Animal.dll
+G:\_4_oop\Animal\bin\Debug\Animal.pdb
+G:\_4_oop\Animal\obj\Debug\Animal.dll
+G:\_4_oop\Animal\obj\Debug\Animal.pdb
+G:\_4_oop\dlls\Animal.dll
+G:\_4_oop\dlls\Animal.pdb
+H:\_4_oop\dlls\Animal.dll
+H:\_4_oop\dlls\Animal.pdb
+H:\_4_oop\Animal\obj\Debug\Animal.dll
+H:\_4_oop\Animal\obj\Debug\Animal.pdb
